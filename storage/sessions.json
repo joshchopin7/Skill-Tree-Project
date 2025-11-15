@@ -1,0 +1,22 @@
+{
+  "sessions": [
+    {
+      "session_id": "7590e506-f6fc-4566-8585-d76f2455fd4b",
+      "date_iso": "2025-11-14",
+      "spot": "Doheney",
+      "duration_min": 60,
+      "notes": "5 waves ridden",
+      "xp_earned": 11,
+      "applied_node_id": null
+    },
+    {
+      "session_id": "2541c8a8-b5e9-4bf0-9126-d5a0e13feb4a",
+      "date_iso": "2025-11-14",
+      "spot": "Sano",
+      "duration_min": 120,
+      "notes": "Good longboard Cross-Stepping",
+      "xp_earned": 15,
+      "applied_node_id": null
+    }
+  ]
+}

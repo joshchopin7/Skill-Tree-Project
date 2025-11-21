@@ -17,6 +17,24 @@
       "notes": "Good longboard Cross-Stepping",
       "xp_earned": 15,
       "applied_node_id": null
+    },
+    {
+      "session_id": "8cb3abbe-5cad-4542-afa0-92a85c01a4e4",
+      "date_iso": "2025-11-19",
+      "spot": "Doho",
+      "duration_min": 60,
+      "notes": "None",
+      "xp_earned": 11,
+      "applied_node_id": null
+    },
+    {
+      "session_id": "dd3a064e-5436-4daa-a92b-b04372c29ad3",
+      "date_iso": "2025-11-19",
+      "spot": "Newport Jetties",
+      "duration_min": 30,
+      "notes": "None",
+      "xp_earned": 8,
+      "applied_node_id": null
     }
   ]
 }

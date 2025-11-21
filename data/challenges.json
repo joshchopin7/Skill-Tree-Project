@@ -1,0 +1,22 @@
+{
+  "challenges": [
+    {
+      "id": "c1",
+      "title": "Surf 30 minutes in one session",
+      "xp": 10,
+      "description": "Log any surf session of at least 30 minutes."
+    },
+    {
+      "id": "c2",
+      "title": "Log 3 sessions",
+      "xp": 15,
+      "description": "Reach a total of 3 logged surf sessions."
+    },
+    {
+      "id": "c3",
+      "title": "Early Bird Session",
+      "xp": 20,
+      "description": "Log a session that starts before 9 AM."
+    }
+  ]
+}

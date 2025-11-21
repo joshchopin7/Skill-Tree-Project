@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "name": "Getting Comfortable in the Water",
+      "xp_required": 0,
+      "order": 1,
+      "description": "First sessions in the whitewater, getting used to the board."
+    },
+    {
+      "id": "n2",
+      "name": "Whitewater Paddling",
+      "xp_required": 20,
+      "order": 2,
+      "description": "Practice paddling and balance in the whitewater."
+    },
+    {
+      "id": "n3",
+      "name": "Pop-Up Practice on Land",
+      "xp_required": 40,
+      "order": 3,
+      "description": "Consistent pop-up technique on land."
+    },
+    {
+      "id": "n4",
+      "name": "Pop-Up in Whitewater",
+      "xp_required": 60,
+      "order": 4,
+      "description": "Stand up in the whitewater with control."
+    },
+    {
+      "id": "n5",
+      "name": "Angle Takeoffs",
+      "xp_required": 90,
+      "order": 5,
+      "description": "Start taking off at a slight angle toward the shoulder."
+    },
+    {
+      "id": "n6",
+      "name": "Trimming Down the Line",
+      "xp_required": 120,
+      "order": 6,
+      "description": "Ride along the face of the wave, not just straight."
+    }
+  ]
+}
